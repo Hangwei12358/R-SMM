@@ -1,14 +1,16 @@
 # R-SMM
 Codes for AAAI 2018 paper "Sensor-based Activity Recognition via Learning from Distributions".
 
+> ```
 > @inproceedings{hangwei18aaai,
->  author    = {Hangwei Qian and
->               Sinno Jialin Pan and
->               Chunyan Miao},
->  title     = {Sensor-based Activity Recognition via Learning from Distributions},
->  booktitle = {AAAI},
->  year      = {2018}
->}
+>   author    = {Hangwei Qian and
+>                Sinno Jialin Pan and
+>                Chunyan Miao},
+>   title     = {Sensor-based Activity Recognition via Learning from Distributions},
+>   booktitle = {AAAI},
+>   year      = {2018}
+> }
+> ```
 
 The codes are tested in Ubuntu 14.04, with Matlab R2017b.
 
